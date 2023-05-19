@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/RealWorldApp/static/css/main.073c9b0a.css",
-    "main.js": "/RealWorldApp/static/js/main.bfa805bd.js",
-    "static/media/logo.svg": "/RealWorldApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/RealWorldApp/static/css/main.a619d274.css",
+    "main.js": "/RealWorldApp/static/js/main.de76436b.js",
     "index.html": "/RealWorldApp/index.html",
-    "main.073c9b0a.css.map": "/RealWorldApp/static/css/main.073c9b0a.css.map",
-    "main.bfa805bd.js.map": "/RealWorldApp/static/js/main.bfa805bd.js.map"
+    "main.a619d274.css.map": "/RealWorldApp/static/css/main.a619d274.css.map",
+    "main.de76436b.js.map": "/RealWorldApp/static/js/main.de76436b.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.bfa805bd.js"
+    "static/css/main.a619d274.css",
+    "static/js/main.de76436b.js"
   ]
 }
